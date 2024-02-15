@@ -3,15 +3,14 @@
 ## 🎯 My Objectives
 * To share my work
 * Receive feedback on improving methods
-* Serve as reference material for anyone trying to practice on data analytics
+* Serve as reference material for anyone trying to practice on Exploratory Data Analysis
 
 ## 📓 Project Description 
 * **Objective** - To apply the techniques learnt from python and perform Exploratory Data Analysis (EDA) in a real world industry problem.
 * **Problem Statement** - Perform EDA to answer key questions and help the company to improve the business.
-This project is my first capstone project under a data science coursework with MIT.
 * **Data Source** - Provided by Great Learning as materials for the project.
 
-## ℹ️ Data Dictionary
+## 📓 Data Dictionary
 * order_id: Unique ID of the order
 * customer_id: ID of the customer who ordered the food
 * restaurant_name: Name of the restaurant
@@ -34,13 +33,14 @@ This project is my first capstone project under a data science coursework with M
 
 ## 📓 Usage Guide
 **For Recruiters**
-1. Open up the .ipynb file to understand into details how I've implemented the techniques
+1. Open up the .ipynb or .HTML file to understand into details what was done in the project.
 2. Kindly contact me if you want to know more 😃
 
 **For Learners**
 1. Download the dataset and .ipynb file.
-2. Read through the project context, objective, data description and dictionary
-3. Try and answer the questions in the .ipynb notebook using python codes
-4. Use my code as a reference if you're stucked (My codes are trustworthy, they have been reviewed and I obtained a full score 🥇)
+2. Open the .ipynb file using Google Colaboratory or jupyter notebook.
+3. Read through the project context, objective, data description and dictionary.
+4. Try and run the code in the .ipynb notebook, cell by cell. As the codes are well-commented, try to understand what each line of code does.
+5. Use my code as a reference if you're stucked (My codes are trustworthy, they have been reviewed and I obtained a full score 🥇)
 
 **Thanks for reaching the end!**
